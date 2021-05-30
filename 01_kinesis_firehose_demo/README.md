@@ -1,5 +1,5 @@
 ## Architecture
-<img src="static/firehose.JPG" />
+<img src="../static/firehose.JPG" />
 
 ## Check what kinesis agent is doing .
 ```
